@@ -27,9 +27,9 @@ An intelligent email automation system built with **n8n**, **OpenAI (GPT-4o-mini
 
 Watch the automation in action:
 
-<video src="testando_automacao.mp4" controls title="Automation Demo" style="max-width: 100%;"></video>
+[![Watch the video](Workflow.PNG)](testando_automacao.mp4)
 
-*(Note: If the video doesn't load automatically, you can also view it directly [here](testando_automacao.mp4))*
+> 💡 **Tip:** Click on the image above to watch the demonstration video.
 
 ## How to Use
 
