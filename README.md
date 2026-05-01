@@ -23,12 +23,6 @@ An intelligent email automation system built with **n8n**, **OpenAI (GPT-4o-mini
 
 ![Workflow](Workflow.PNG)
 
-## Demonstration
-
-Watch the automation in action:
-
-![Workflow Preview](Workflow.PNG)
-
 You can download the demonstration video directly from the repository [here](testando_automacao.mp4).
 
 ## How to Use
