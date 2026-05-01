@@ -1,8 +1,8 @@
-# SmartMail-n8n-AI 🚀
+# SmartMail-n8n-AI 
 
 An intelligent email automation system built with **n8n**, **OpenAI (GPT-4o-mini)**, and **Google Workspace**. This project automatically classifies, labels, summarizes, and drafts replies for your incoming Gmail messages, ensuring your inbox stays organized and important information is never missed.
 
-## 🌟 Features
+## Features
 
 - **Automated Classification**: Uses AI to categorize emails into:
   - Promotions
@@ -19,11 +19,11 @@ An intelligent email automation system built with **n8n**, **OpenAI (GPT-4o-mini
 - **Draft Responses**: Automatically creates draft replies for personal and sales inquiries.
 - **Clean Inbox**: Automatically marks non-essential emails (like Social or Promotions) as read.
 
-## 📸 Workflow Preview
+## Workflow Preview
 
 ![Workflow](Workflow.PNG)
 
-## 🎥 Demonstration
+## Demonstration
 
 Watch the automation in action:
 
@@ -31,7 +31,7 @@ Watch the automation in action:
 
 *(Note: If viewing on GitHub, you can download the video or view it in the repository files)*
 
-## 🛠️ How to Use
+## How to Use
 
 ### Prerequisites
 - An **n8n** instance (cloud or self-hosted).
@@ -53,7 +53,7 @@ Watch the automation in action:
 4. **Activate**:
    - Turn on the workflow. It is set to check for new unread emails every 5 minutes by default.
 
-## 📄 Automation JSON
+## Automation JSON
 
 The full workflow configuration is available in the [workflow_codigo.json](workflow_codigo.json) file.
 
